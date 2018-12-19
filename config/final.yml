@@ -1,1 +1,5 @@
 name: shield-addon-cassandra
+blobstore:
+  provider: local
+  options:
+    blobstore_path: final_blobs
