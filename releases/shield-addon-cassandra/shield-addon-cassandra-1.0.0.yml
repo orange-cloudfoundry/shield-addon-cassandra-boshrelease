@@ -1,0 +1,15 @@
+name: shield-addon-cassandra
+version: 1.0.0
+commit_hash: 742057b
+uncommitted_changes: false
+jobs:
+- name: shield-addon-cassandra-plugin
+  version: dbb1f1df9621d1989fbc0941ca584bd6a97fe479
+  fingerprint: dbb1f1df9621d1989fbc0941ca584bd6a97fe479
+  sha1: 98a483165c42bd55a2a796a88f772dfc8fd0f42b
+packages:
+- name: shield-addon-cassandra-plugin
+  version: 3f1bdb539b679c8e18da4d39fefa4c29721544fd
+  fingerprint: 3f1bdb539b679c8e18da4d39fefa4c29721544fd
+  sha1: a20c616b7564050ec3f08086b87b5eb4095e560d
+  dependencies: []
