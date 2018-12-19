@@ -1,0 +1,7 @@
+---
+name: shield-addon-cassandra-plugin
+
+dependencies: []
+
+files:
+- shield-cassandra-plugin-*

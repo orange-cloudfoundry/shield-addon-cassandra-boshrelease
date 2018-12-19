@@ -1,0 +1,9 @@
+---
+name: shield-addon-cassandra-plugin
+
+templates: {}
+
+packages:
+- shield-addon-cassandra-plugin
+
+properties: {}
